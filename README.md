@@ -2,7 +2,7 @@
 
 This is a  simple approach to Morse Code translation.
 
-**Translates**
+**It can translate**
 ---
 + Alphabet
 + Numbers
