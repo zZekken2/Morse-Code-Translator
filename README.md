@@ -6,7 +6,7 @@ This is a  simple approach to Morse Code translation.
 ---
 It can translate:
 
-+ Certain special characters (`like accented vowels`)
++ Certain special characters
 + Punctuation
 
 **Libraries**
