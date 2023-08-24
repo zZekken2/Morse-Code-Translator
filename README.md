@@ -2,12 +2,12 @@
 
 This is a  simple approach to Morse Code translation.
 
-**Features**
+**Translates**
 ---
-It can translate:
-
-+ Certain special characters
++ Alphabet
++ Numbers
 + Punctuation
++ Certain special characters
 
 **Libraries**
 ---
