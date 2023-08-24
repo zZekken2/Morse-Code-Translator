@@ -1,6 +1,6 @@
 # Text-to-MorseCode
 
-This is a  simple approach to Morse Code translation.
+A simple approach to Morse Code translation.
 
 **It can translate**
 ---
